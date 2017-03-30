@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/category_font_string"
+        android:key="pref_key_font_settings">
+        <ListPreference
+            android:title="@string/font_settings_string"
+            android:key="font_pref_list"
+            android:entries="@array/font_menu_entries"
+            android:entryValues="@array/font_menu_value"
+            android:defaultValue="@string/default_font">
+        </ListPreference>
+        <ListPreference
+            android:title="@string/color_settings_string"
+            android:key="color_pref_list"
+            android:entries="@array/color_menu_entries"
+            android:entryValues="@array/color_menu_value"
+            android:defaultValue="@string/default_color"
+            />
+    </PreferenceCategory>
+
+</PreferenceScreen>

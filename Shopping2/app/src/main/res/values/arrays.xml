@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="icon_image">
+
+        <item>@drawable/fruit_icon</item>
+
+        <item>@drawable/grain_icon</item>
+
+        <item>@drawable/fish_icon</item>
+
+        <item>@drawable/meat_icon</item>
+
+        <item>@drawable/vegetables_icon</item>
+
+        <item>@drawable/other_icon</item>
+
+    </integer-array>
+    <integer name="size_list_icons">6</integer>
+
+    <string-array name="font_menu_entries">
+        <item>mała</item>
+        <item>średnia</item>
+        <item>duża</item>
+    </string-array>
+    <string-array name="font_menu_value">
+        <item>small</item>
+        <item>normal</item>
+        <item>huge</item>
+    </string-array>
+
+    <string-array name="color_menu_entries">
+        <item>czerwony</item>
+        <item>niebieski</item>
+        <item>zielony</item>
+    </string-array>
+    <string-array name="color_menu_value">
+        <item>red</item>
+        <item>blue</item>
+        <item>green</item>
+    </string-array>
+</resources>
