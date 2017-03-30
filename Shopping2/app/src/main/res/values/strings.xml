@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shopping</string>
+    <string name="welcome_string">Witaj łowco promocji !!!</string>
+    <string name="main_header_string">Lista zakupów</string>
+    <string name="settings">Ustawienia</string>
+    <string name="main_nav_string">Lista</string>
+    <string name="font_settings_string">Wybierz rozmiar czcionki</string>
+    <string name="color_settings_string">Wybierz kolor czcionki</string>
+    <string name="default_color">blue</string>
+    <string name="default_font">normal</string>
+    <string name="category_font_string">Czcionka</string>
+</resources>
